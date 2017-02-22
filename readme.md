@@ -28,4 +28,4 @@ Result of `response.text()` with `Content-Type` `application/xml`:
 ## Endpoints
 [Mock endpoint with `Content-Type` `text/xml`](http://mockbin.org/bin/ebed6ca6-f882-4843-847d-b5d6767116d9/view)
 
-[Mock endpoint with `Content-Type` `application/xml`](http://mockbin.org/bin/ebed6ca6-f882-4843-847d-b5d6767116d9/view)
+[Mock endpoint with `Content-Type` `application/xml`](http://mockbin.org/bin/f2b097e0-8ee0-4366-b4e9-b5343acfedd8/view)
